@@ -2,17 +2,17 @@
 * [Analytics](#analytics)
  * [Amazon Quicksight Q](#amazon-quicksight-q-preview)
 * [Compute](#compute)
- * [Amazon EC2 Mac Instances](#use-amazon-ec2-mac-instances-to-build-and-test-macos-ios-ipados-tvos-and-watchos-apps)
+ * [Amazon EC2 Mac Instances](#new-mac)
 * [Machine Learning](#machine-learning)
- * [Amazon SageMaker Clarify](#amazon-sagemaker-clarify)
+ + [Amazon SageMaker Clarify](#amazon-sagemaker-clarify)
 
 
- ## Analytics
+# Analytics
 
 
 ## [Amazon Quicksight Q (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-quicksight-q/)
 
-## Compute
+# Compute
 
 <a name="new-mac"></a>
 ## [Use Amazon EC2 Mac Instances to Build and Test macOS, iOS, iPadOS, tvOS, and watchOS Apps](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/)
