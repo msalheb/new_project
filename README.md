@@ -1,10 +1,10 @@
 # Table of Contents
 * [Analytics](#analytics)
- * [Amazon Quicksight Q](#amazon-quicksight-q-preview)
+   * [Amazon Quicksight Q](#amazon-quicksight-q-preview)
 * [Compute](#compute)
- * [Amazon EC2 Mac Instances](#new-mac)
+   * [Amazon EC2 Mac Instances](#new-mac)
 * [Machine Learning](#machine-learning)
- + [Amazon SageMaker Clarify](#amazon-sagemaker-clarify)
+   + [Amazon SageMaker Clarify](#amazon-sagemaker-clarify)
 
 
 # Analytics
